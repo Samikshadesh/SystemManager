@@ -7,7 +7,8 @@ public class HashMapEx {
 	{
 		Map<Integer, book>map=new HashMap<Integer,book>();
 		Map<Integer, book>Finalmap=new HashMap<Integer,book>();
-		book s1=new book(11,2012l,"NK","Paru");
+		book s1=new book(11,2012l,"NK","The Wings of Fire");
+		// (Changes made by Shradddha)
 		book s2=new book(10,2022l,"NK1","Paru1");
 		book s3=new book(101,2092l,"NK2","Paru2");
 		 map.put(1, s1);
@@ -23,7 +24,8 @@ public class HashMapEx {
 		
 		
 //		Map<Integer, book>map=new HashMap<Integer,book>();
-//		book s1=new book(11,2012l,"NK","Paru");
+//		book s1=new book(11,2012l,"NK","The Wings of Fire");
+//		(Changes made by Shraddha)
 //		book s2=new book(10,2022l,"NK1","Paru1");
 //		book s3=new book(101,2092l,"NK2","Paru2");
 //		 map.put(1, s1);
